@@ -1,8 +1,8 @@
 # Web-Development
-This repository contains my web development practice and projects 
+This repository contains my Web Development Projects 
 <br>
 Author: Sudha Harshitha
 <br>
 <p>
-  This contains one Web Development Project which is SUDOKU SOLVER and some of my practise folders
+  This contains one Web Development Project which is SUDOKU SOLVER
 </p>
