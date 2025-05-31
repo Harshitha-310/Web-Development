@@ -9,7 +9,7 @@
     <li>✅ Countdown Timer – A 60-second timer adds a thrilling challenge.</li>
     <li>✅ Interactive Feedback – Instant messages for correct and incorrect answers.</li>
     <li>✅ Reset Functionality – Restart the game anytime with a single click.</li>
-    <li>✅ Modern Design – Clean, colorful UI with CSS gradients and transitions.<li>
+    <li>✅ Modern Design – Clean, colorful UI with CSS gradients and transitions.</li>
 </ul>
 <br>
 <h2>💻 How to Play</h2>
