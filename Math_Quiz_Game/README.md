@@ -30,4 +30,9 @@
 </ul>
 <br>
 <h3>Possible Improvements</h3>
-<p>🎯 Add difficulty levels (easy, medium, hard). 🔉 Include sound effects for correct/incorrect answers. 🎨 Add animations for transitions. 🌍 Make the game responsive for mobile devices.</p>
+<ul>
+    <li>🎯 Add difficulty levels (easy, medium, hard).</li>
+    <li>🔉 Include sound effects for correct/incorrect answers.</li>
+    <li>🎨 Add animations for transitions.</li>
+    <li>🌍 Make the game responsive for mobile devices.</p>
+</ul>
